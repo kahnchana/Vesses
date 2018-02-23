@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/layout-v21/notification_action.xml"
+    }
+]

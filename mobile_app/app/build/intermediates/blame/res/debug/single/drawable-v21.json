@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

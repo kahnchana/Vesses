@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:layout_margin="1dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:contentPadding="10dp"
+    card_view:cardCornerRadius="4dp"
+    android:elevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/card_disease_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Xanthomonas campestris pv"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:layout_marginEnd="10dp"/>
+
+        <TextView
+            android:id="@+id/card_disease_probability"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="95%"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:layout_marginStart="10dp"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
+

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/shehan/.android/build-cache/52355b9ae6720d99211c755d67a74e7b7f2aee57/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/shehan/Downloads/Plantdoctortest/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/shehan/.android/build-cache/6277a78f4c4d6db144aac165bdc12cc224b2b224/output/res/anim/abc_popup_exit.xml"
+    }
+]

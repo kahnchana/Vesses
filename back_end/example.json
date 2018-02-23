@@ -1,0 +1,46 @@
+{
+    "affected":true,
+    "probabilities":[
+        {
+            "disease":"Bacterial Spot",
+            "probability":89
+        },
+        {
+            "disease":"Xanthomonas campestris pv",
+            "probability":79
+        },
+        {
+            "disease":"Yellow Leaf Curl Virus ",
+            "probability":65
+        },
+        {
+            "disease":"Alternaria solani",
+            "probability":60
+        },
+        {
+            "disease":"Fulvia fulva ",
+            "probability":45
+        },
+        {
+            "disease":"Septoria lycopersici",
+            "probability":41
+        },
+        {
+            "disease":"Two Spotted Spider Mite",
+            "probability":35
+        },
+        {
+            "disease":"Tetranychus urticae",
+            "probability":27
+        },
+        {
+            "disease":"Corynespora",
+            "probability":12
+        },
+        {
+            "disease":"Mosaic Virus",
+            "probability":0
+        }
+
+    ]
+}
